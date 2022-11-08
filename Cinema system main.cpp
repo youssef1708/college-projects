@@ -8,7 +8,7 @@ using namespace std;
 
 void reservation(char **arr, int rows, int columns); // Prototype of the first function.
 void recommendation(char **arr, int rows, int columns); // Prototype of the second function.
-void CancelReservation(char **arr, int rows, int columns); // Prototype of the third function.
+void CancelReservation(char **arr, int rows, int columns); // Prototype of the third function .
 void ClearReservations(char **arr, int rows, int columns); // prototype of fourth function.
 void statistics(char **arr, int rows, int columns);// prototype of fifth function.
 
